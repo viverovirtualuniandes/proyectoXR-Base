@@ -60,7 +60,7 @@ A lo largo del curso, se proporcionan módulos descargables en formato .zip, que
 |:-:|
 |Este módulo introduce las interacciones básicas en XR, utilizando el XR Interaction Toolkit.|
 |Incluye una escena llamada **Ejercicio** con las configuraciones predefinidas para comenzar a experimentar con interacciones simples. Además, contiene todas las configuraciones para interacción XR.|
-| <img src="https://github.com/user-attachments/assets/f59e2c41-67ed-4eb0-9588-59b0dd2907b0" width="560"> |
+| <img src="https://github.com/viverovirtualuniandes/recursosMOOC/blob/main/Imagenes/ejemplo_texturas_oro/Modulo5.gif" width="560"> |
 
 ### Módulo 2 🌲
 |[Introducción a la programación en Unity](https://github.com/viverovirtualuniandes/proyectoXR-Base/releases/tag/modulo02.v1)|
