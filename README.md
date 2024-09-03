@@ -60,28 +60,28 @@ A lo largo del curso, se proporcionan módulos descargables en formato .zip, que
 |:-:|
 |Este módulo introduce las interacciones básicas en XR, utilizando el XR Interaction Toolkit.|
 |Incluye una escena llamada **Ejercicio** con las configuraciones predefinidas para comenzar a experimentar con interacciones simples. Además, contiene todas las configuraciones para interacción XR.|
-| <img src="https://github.com/viverovirtualuniandes/recursosMOOC/blob/main/Imagenes/ejemplo_texturas_oro/Modulo5.gif" width="560"> |
+| <img src="https://github.com/viverovirtualuniandes/recursosMOOC/blob/main/Imagenes/ModulosIntroXR/Modulo1.gif" width="560"> |
 
 ### Módulo 2 🌲
 |[Introducción a la programación en Unity](https://github.com/viverovirtualuniandes/proyectoXR-Base/releases/tag/modulo02.v1)|
 |:-:|
 |Este módulo incluye una escena con la estructura base de nuestra aplicación Huerto VR.|
 |Dentro de la escena **Ejercicio** se agregan las modificaciones necesarias y dentro de la carpeta **Assets** se adicionan todos modelos, prefabs y demás archivos necesarios para continuar con el proyecto del curso.|
-| <img src="https://github.com/user-attachments/assets/b314ee77-06d6-45f0-aea5-23b6627c374a" width="560"> |
+| <img src="https://github.com/viverovirtualuniandes/recursosMOOC/blob/main/Imagenes/ModulosIntroXR/Modulo2.gif" width="560"> |
 
  ### Módulo 4 🍎
 |[Detección de eventos XR](https://github.com/viverovirtualuniandes/proyectoXR-Base/releases/tag/modulo04.v1)|
 |:-:|
 |Este módulo se enfoca en la implementación de eventos y uso de condicionales dentro del Huerto VR.|
 | Incluye un prefab llamado **ZonaCultivos_Empaque** el cual contiene todos los elementos necesarios para el desarrollo de las actividades planteadas.|
-| <img src="https://github.com/user-attachments/assets/85fc5bf5-c964-4411-a154-9d5b97ba5b8e" width="560"> |
+| <img src="https://github.com/viverovirtualuniandes/recursosMOOC/blob/main/Imagenes/ModulosIntroXR/Modulo4.gif" width="560"> |
 
  ### Módulo 5 🍅
 |[Ciclos e interfaz de usuario](https://github.com/viverovirtualuniandes/proyectoXR-Base/releases/tag/modulo05.v1)|
 |:-:|
 |Este módulo se centra en el uso de ciclos para solucionar problemas de forma eficiente, además, se enseña la creación de interfaces de usuario interactivas en VR.|
 | Dentro del paquete se incluye un prefab llamado **ZonaCultivosTomates** previamente configurado para realizar los ejercicios propuestos.|
-| <img src="https://github.com/user-attachments/assets/20b31cc5-5b22-4c75-b3e7-1e3494bf0a0f" width="560"> |
+| <img src="https://github.com/viverovirtualuniandes/recursosMOOC/blob/main/Imagenes/ModulosIntroXR/Modulo5.gif" width="560"> |
 
 
 ## :handshake: Créditos ##
