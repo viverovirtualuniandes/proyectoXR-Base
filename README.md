@@ -52,7 +52,6 @@ Para comenzar a trabajar con este proyecto en tu entorno local, sigue estos paso
 
 ## :desktop_computer: Releases ##
 
-Releases
 A lo largo del curso, se proporcionan módulos descargables en formato .zip, que contienen paquetes de Unity necesarios para cada módulo. A continuación, se describen los módulos y sus contenidos:
 
 ### Módulo 1 🌱
